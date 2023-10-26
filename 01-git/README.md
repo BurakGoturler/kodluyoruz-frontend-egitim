@@ -4,6 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 ![github](figures/github.png)
 
+![resim] (https://github.com/BurakGoturler/kodluyoruz-frontend-egitim/blob/main/01-git/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-10-26%20155330.png)
 ## Installation
 
 Öncelikle projeyi clonelayın.
